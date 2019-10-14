@@ -1,6 +1,17 @@
 #mainContent {
   border: 1px solid red;
   background-color: rgb(255,230,230);
+<<<<<<< pr/5
+<<<<<<< pr/5
+
+}
+
+.queue-view {
+  border: 1px solid blue;
+  background-color: rgb(210,210,230);
+=======
+=======
+>>>>>>> master
 }
 
 .queueView {
@@ -27,4 +38,8 @@
 }
 .lowPriority {
   border-left: 4px solid blue;
+<<<<<<< pr/5
+>>>>>>> master
+=======
+>>>>>>> master
 }
