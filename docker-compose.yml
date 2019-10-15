@@ -4,5 +4,11 @@ services:
     build: .
     ports:
       - "8080:80"
+    env_file:
+      - ./docker/env
     volumes:
+<<<<<<< HEAD
       - ./public:/srv/app/public
+=======
+      - ./app/public:/srv/app/public
+>>>>>>> e528f0ceb08f737f2c78a843965bd7b26a49dffd
